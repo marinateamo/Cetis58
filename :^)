@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main ()
+{
+	cout<<"ola lu"<<"\n";
+	cout<<"ola lu?"<<"\n";
+	cout<<"ola luser";
+ }
